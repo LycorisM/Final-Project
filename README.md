@@ -2,7 +2,7 @@
 The Final Project for programming digital arts. This is a self created project to display what was learned and explore new challenges
 
 # Idea 1
-# Title
+# Starboard Strike
 
 ## Repository
 [<Link to your project's public GitHub respository>](https://github.com/LycorisM/Final-Project)
